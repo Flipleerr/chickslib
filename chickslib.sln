@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChicksLib", "ChicksLib\Chic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CLITools", "CLITools", "{26430556-7A75-44D8-05FC-122891E80D39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTool", "CLITools\TestTool\TestTool.csproj", "{F779FD9A-1D57-491A-B960-D0B68EF1694D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChicksZips", "CLITools\ChicksZips\ChicksZips.csproj", "{F779FD9A-1D57-491A-B960-D0B68EF1694D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
