@@ -15,5 +15,9 @@ the core library; handles archives, textures, etc.
 #### ChicksZips
 a command-line tool that extracts the custom ZIP formatted archives.
 
-## important note
+## important notes
+### third-party components
 a lot of components (like IO) are taken from similar libraries like MikuMikuLibrary and Amicitia. files taken and modified from said libraries have a note at the top. while i do plan on moving away from these and writing my own stuff, this was done for the sake of getting other components up and running.
+
+### is this library production-ready?
+no. not in **any capacity**, not yet at least. i'm often focusing on other projects and rarely push to this. i advise against using this in your own projects until a significant milestone is reached (e.g. v1.0).
